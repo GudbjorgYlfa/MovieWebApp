@@ -23,6 +23,7 @@ body {
   margin: 25px;
   box-shadow: 5px 10px 18px black;
   transition: 0.15s ease-in-out;
+  padding: 15px;
 }
 
 .movieCard:hover {
@@ -60,4 +61,8 @@ i:hover {
   transform: scale(1.02);
   box-shadow: 5px 10px 18px #888888;
   color: blue;
+}
+
+.likeHeart {
+  color: red;
 }
